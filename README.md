@@ -28,8 +28,8 @@ AI Enthusiast
 | Product | Description | Status |
 |----------|-------------|--------|
 | [🧠 Omni AI](https://omniworkspace.vercel.app/) | Multi-AI comparison platform | 🟢 Active |
-| [🌾 Farmer Connect](https://github.com/Enkegithub) | Direct farmer-to-market platform | 🟢 Active |
-| [🎓 Career Path AI](https://github.com/Enkegithub) | AI-powered student guidance system | 🟡 Development |
+| [🌾 Farmer Connect](https://github.com/Enkegithub) | Direct farmer-to-market platform | 🟡 Development |
+| [🎓 CLUB WEB SITE](https://hackerrank-one.vercel.app/) | Hacker Rank Club Website | 🟢 Active |
 | [🎬 Portfolio](https://niteshkushwaha.vercel.app/) | ❣️ | 🟢 Active |
 # 📊 GitHub Stats
 
