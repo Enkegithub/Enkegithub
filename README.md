@@ -30,7 +30,7 @@ AI Enthusiast
 | [🧠 Omni AI](https://omniworkspace.vercel.app/) | Multi-AI comparison platform | 🟢 Active |
 | [🌾 Farmer Connect](https://github.com/Enkegithub) | Direct farmer-to-market platform | 🟢 Active |
 | [🎓 Career Path AI](https://github.com/Enkegithub) | AI-powered student guidance system | 🟡 Development |
-| [🎬 Quiet Being](https://youtube.com) | Psychology & self-improvement content | 🟢 Active |
+| [🎬 Portfolio](https://niteshkushwaha.vercel.app/) | ❣️ | 🟢 Active |
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Enkegithub&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
