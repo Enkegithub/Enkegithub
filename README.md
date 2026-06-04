@@ -23,10 +23,11 @@ Full stack web Applications <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Enkegithub&icon=0&color=0)](https://visitcount.itsvg.in)
-## 📊 GitHub Stats
+![](https://komarev.com/ghpvc/?username=enkegithub)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=enkegithub&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=enkegithub&show_icons=true&theme=tokyonight)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=enkegithub&theme=tokyo-night)
 ## 📈 Activity Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=enkegithub&theme=tokyo-night)
