@@ -27,7 +27,7 @@ AI Enthusiast
 
 | Product | Description | Status |
 |----------|-------------|--------|
-| [🧠 Omni AI](https://https://omniworkspace.vercel.app/) | Multi-AI comparison platform | 🟢 Active |
+| [🧠 Omni AI](https://omniworkspace.vercel.app/) | Multi-AI comparison platform | 🟢 Active |
 | [🌾 Farmer Connect](https://github.com/Enkegithub) | Direct farmer-to-market platform | 🟢 Active |
 | [🎓 Career Path AI](https://github.com/Enkegithub) | AI-powered student guidance system | 🟡 Development |
 | [🎬 Quiet Being](https://youtube.com) | Psychology & self-improvement content | 🟢 Active |
