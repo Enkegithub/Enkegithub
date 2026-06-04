@@ -26,4 +26,7 @@ Full stack web Applications <br>
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=enkegithub&theme=tokyonight)
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=enkegithub&theme=tokyo-night)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
